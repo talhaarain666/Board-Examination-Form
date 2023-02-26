@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(lightcyan, rgb(138, 195, 231));
+}
+
+.cstmdnone {
+    display: none;
+}
+
+.btnshadowrem {
+    box-shadow: none !important;
+}
+
+.cstmcenter {
+    width: 30%;
+    margin: auto;
+}
+.cstmcenterheading {
+    width: fit-content;
+    margin: auto;
+}
+
+.bgcstm {
+    background-color: lightcyan;
+}
+
+.main {
+    min-width: 400px;
+}
